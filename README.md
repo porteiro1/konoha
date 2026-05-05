@@ -141,4 +141,4 @@ This repository was evolved into **[Konoha V2](https://github.com/porteiro1/kono
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/porteiro1">porteiro1</a></p>
+<p align="center">Made by <a href="https://github.com/porteiro1">porteiro1</a></p>
